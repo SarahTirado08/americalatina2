@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+nav{color: aqua;}
+h1{ color: aqua(5, 1, 1);}
+nav a,ul,li{
+    text-decoration: none; 
+    list-style-type:none;
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+a{text-decoration:none;
+color: plum;
+}
+nav {background: black;}
+body
+nav     {background-color: rgb(8, 1, 1);
+height: 50px;}
+nav li{padding:15px;}
